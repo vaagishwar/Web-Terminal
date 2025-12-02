@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0c0c0c; /* Dark background like Windows Terminal */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    font-family: 'Consolas', 'Courier New', monospace;
+}
+
+#terminal-container {
+    width: 98vw;
+    height: 98vh;
+    background-color: #0c0c0c; /* Acrylic-like dark background */
+    /* Optional: Add some transparency or blur if supported by browser/OS integration, 
+       but for pure web, a solid dark color is safer for performance and readability. 
+       To simulate 'acrylic', we could add a subtle texture or gradient, but flat is standard for web terminals. */
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+/* Custom scrollbar to match dark theme */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0c0c0c;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
