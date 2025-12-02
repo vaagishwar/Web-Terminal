@@ -2,7 +2,9 @@
 
 A web-based terminal emulator that acts as a proxy to your local Windows command line. It allows you to run commands and interact with your shell directly from a web browser, mimicking the look and feel of Windows Terminal.
 
-![Terminal Preview](https://via.placeholder.com/800x400?text=Web+Terminal+Preview)
+<img width="1918" height="950" alt="Screenshot 2025-12-02 200957" src="https://github.com/user-attachments/assets/38766c06-a59b-44da-92af-ac9aaf40f921" />
+
+
 
 ## Features
 
@@ -57,3 +59,4 @@ A web-based terminal emulator that acts as a proxy to your local Windows command
 ## License
 
 ISC
+
