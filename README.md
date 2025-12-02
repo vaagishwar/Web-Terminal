@@ -23,7 +23,7 @@ A web-based terminal emulator that acts as a proxy to your local Windows command
 
 1.  Clone the repository (or download the source code):
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/vaagishwar/Web-Terminal.git
     cd web-terminal
     ```
 
@@ -59,4 +59,5 @@ A web-based terminal emulator that acts as a proxy to your local Windows command
 ## License
 
 ISC
+
 
