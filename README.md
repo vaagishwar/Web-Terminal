@@ -59,5 +59,10 @@ A web-based terminal emulator that acts as a proxy to your local Windows command
 ## License
 
 ISC
+https://github.com/vaagishwar/Web-Terminal.git
 
+⭐ Star this repository if you found it useful!
+
+[![GitHub stars](https://img.shields.io/github/stars/vaagishwar/Web-Terminal?style=social)](https://github.com/vaagishwar/Web-Terminal/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/vaagishwar/Web-Terminal?style=social)](https://github.com/vaagishwar/Web-Terminal/network/members)
 
